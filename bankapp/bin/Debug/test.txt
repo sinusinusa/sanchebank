@@ -1,0 +1,66 @@
+Arsen Mikosyan
+100000
+ARS1
+Artem Vlasov
+100
+VLAS2
+Mirchenko Ivan
+1000
+MIR3
+Kimiko Itikawa
+965789000
+KIM4
+Lebedev Artemiy
+10000
+LEB5
+Magellan Kim
+10000
+ZAP6
+Kimbris Wladimir
+100000
+CUCUMBRIS228
+Tarmin Vadim
+100
+TARM10
+Alexander Che
+433
+SANCHE1
+Dalay Milangua
+2345
+DAL65
+Ivan Ivanych
+12500
+IVA66
+Alexander Lebed
+100000
+LEB65
+Michael Chub
+5000
+CH05
+Putin Nicolay Andr.
+30000
+PU76
+Sven Odin
+300
+ODI76
+Eugene Omezhka
+100
+OMEGA
+Gregor Yavlinsky
+1100
+AP13
+Wladimir Zelcman
+10000
+ZELC10
+Katya Onezhka
+456
+ONEZH1
+Johny Selverhand
+10000000
+SAMURAI
+Michael KOmpot
+100
+KOMP10
+Wladimir Lisin
+10000000
+LIS48
